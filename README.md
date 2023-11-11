@@ -22,24 +22,6 @@ It is a modified and improved version of the theme running [Offbeat Bits - my pe
 - custom disclaimers alongside post content
 - and more
 
-## Live demo
-
-https://eleventy-bliss.lkmt.us/
-
-## Instant deploy
-
-Netlify:
-
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/lwojcik/eleventy-template-bliss)
-
-Vercel:
-
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/lwojcik/eleventy-template-bliss)
-
-Render:
-
-[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/lwojcik/eleventy-template-bliss)
-
 ## Configuration
 
 See [`siteConfig.js`](./content/_data/siteConfig.js). Inline documentation is available in the file.

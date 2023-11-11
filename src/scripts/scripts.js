@@ -189,12 +189,13 @@ window.addEventListener('DOMContentLoaded', () => {
   };
 
   if (postLists && postLists.length > 0) {
-    for (const listItem of postLists) {
-      listItem.classList.add('hidden');
-    }
+    // make everything unfold
+    // for (const listItem of postLists) {
+    //   listItem.classList.add('hidden');
+    // }
 
     for (const heading of archiveYearHeadings) {
-      heading.classList.add('clickable', 'hidden');
+      // heading.classList.add('clickable', 'hidden');
       heading.addEventListener('click', handleArchiveToggle);
       heading.addEventListener('keyup', handleArchiveToggleFromKeyboard);
     }
@@ -363,11 +364,11 @@ window.addEventListener('DOMContentLoaded', () => {
 
       window.open(
         'https://' +
-          instance +
-          '/share?text=' +
-          encodeURIComponent(title) +
-          ' ' +
-          encodeURIComponent(href),
+        instance +
+        '/share?text=' +
+        encodeURIComponent(title) +
+        ' ' +
+        encodeURIComponent(href),
         '_blank'
       );
     });
