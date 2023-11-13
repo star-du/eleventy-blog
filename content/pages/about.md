@@ -5,6 +5,7 @@ eleventyNavigation:
   key: About
   order: 1
 date: 2022-11-22
+customPermalink: /about/
 ---
 
 <div  class="notice">

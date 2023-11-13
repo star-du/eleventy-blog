@@ -4,7 +4,7 @@
   "private": true,
   "scripts": {
     "prebuild": "npm run clean",
-    "build:eleventy": "ELEVENTY_ENV=production npx @11ty/eleventy --quiet",
+    "build:eleventy": "npx @11ty/eleventy --quiet",
     "build": "npm-run-all build:*",
     "postbuild": "npm run minify:js",
     "clean": "rimraf _site",
