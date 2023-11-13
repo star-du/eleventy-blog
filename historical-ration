@@ -5,8 +5,8 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>康德的《历史理性批判文集》 - Star`s Note</title>
 <meta property="og:title" content="康德的《历史理性批判文集》 - Star`s Note">
-<link rel="stylesheet" href="/css/style.css?v=1699882353">
-<script src="/js/scripts.js?v=1699882353"></script>
+<link rel="stylesheet" href="/css/style.css?v=1699884305">
+<script src="/js/scripts.js?v=1699884305"></script>
 
 <script>
   if ('serviceWorker' in navigator)  {
@@ -19,7 +19,7 @@
 </script>
 
 <meta name="description" content="来读点康德吧">
-<link rel="canonical" href="https://eleventy-bliss.vercel.app/historical-ration" />
+<link rel="canonical" href="https://star-du.github.io/eleventy-blog/historical-ration" />
 <meta name="generator" content="Eleventy v2.0.1">
 
 <link rel="icon" href="/favicon.ico" sizes="any">
@@ -31,13 +31,13 @@
 <link rel="alternate" type="application/rss+xml"  title="Star`s Note RSS feed (full articles)" href="/full.xml" />
 <link rel="alternate" type="application/json" title="Star`s Note JSON feed (excerpts)" href="/excerpts.json">
 <link rel="alternate" type="application/json" title="Star`s Note JSON feed (full articles)" href="/full.json">
-<meta property="og:url" content="https://eleventy-bliss.vercel.app/historical-ration">
+<meta property="og:url" content="https://star-du.github.io/historical-ration">
 <meta property="og:type" content="article">
-<meta property="og:image" content="https://eleventy-bliss.vercel.app/images/share-1200x600.jpg">
-<meta property="twitter:image" content="https://eleventy-bliss.vercel.app/images/share-1200x600.jpg">
+<meta property="og:image" content="https://star-du.github.io/images/share-1200x600.jpg">
+<meta property="twitter:image" content="https://star-du.github.io/images/share-1200x600.jpg">
 <meta property="twitter:card" content="summary_large_image">
 
-<script type="application/ld+json">{"@context":"https://schema.org","@type":"Article","headline":"康德的《历史理性批判文集》","image":["https://eleventy-bliss.vercel.app/images/share-1200x600.jpg"],"author":{"@type":"Person","name":"star-du"},"mainEntityOfPage":"https://eleventy-bliss.vercel.app/historical-ration","datePublished":"2023-11-12T00:00:00.000Z","description":"来读点康德吧"}</script>
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"Article","headline":"康德的《历史理性批判文集》","image":["https://star-du.github.io/images/share-1200x600.jpg"],"author":{"@type":"Person","name":"star-du"},"mainEntityOfPage":"https://star-du.github.io/historical-ration","datePublished":"2023-11-12T00:00:00.000Z","description":"来读点康德吧"}</script>
 
 
   </head>
@@ -226,7 +226,7 @@
 
       
       <li>
-        <a target="_blank" rel="noopener noreferrer" data-tooltip="Share on Twitter - opens a new tab" rel="noopener noreferrer" href="https://twitter.com/intent/tweet/?text=康德的《历史理性批判文集》&amp;url=https://eleventy-bliss.vercel.app//" class="twitter">
+        <a target="_blank" rel="noopener noreferrer" data-tooltip="Share on Twitter - opens a new tab" rel="noopener noreferrer" href="https://twitter.com/intent/tweet/?text=康德的《历史理性批判文集》&amp;url=https://star-du.github.io/eleventy-blog//" class="twitter">
           <svg role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><title>Twitter icon</title><path class="fillable" d="M23.953 4.57a10 10 0 01-2.825.775 4.958 4.958 0 002.163-2.723c-.951.555-2.005.959-3.127 1.184a4.92 4.92 0 00-8.384 4.482C7.69 8.095 4.067 6.13 1.64 3.162a4.822 4.822 0 00-.666 2.475c0 1.71.87 3.213 2.188 4.096a4.904 4.904 0 01-2.228-.616v.06a4.923 4.923 0 003.946 4.827 4.996 4.996 0 01-2.212.085 4.936 4.936 0 004.604 3.417 9.867 9.867 0 01-6.102 2.105c-.39 0-.779-.023-1.17-.067a13.995 13.995 0 007.557 2.209c9.053 0 13.998-7.496 13.998-13.985 0-.21 0-.42-.015-.63A9.935 9.935 0 0024 4.59z"></path></svg>
         </a>
       </li>
@@ -253,7 +253,7 @@
 
       
       <li>
-        <a target="_blank" rel="noopener noreferrer" data-tooltip="Share on Hacker News - opens a new tab" rel="noopener noreferrer" href="https://news.ycombinator.com/submitlink?u=https://eleventy-bliss.vercel.app//&amp;t=康德的《历史理性批判文集》" class="hackernews">
+        <a target="_blank" rel="noopener noreferrer" data-tooltip="Share on Hacker News - opens a new tab" rel="noopener noreferrer" href="https://news.ycombinator.com/submitlink?u=https://star-du.github.io/eleventy-blog//&amp;t=康德的《历史理性批判文集》" class="hackernews">
           <svg role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><title>Hacker News icon</title><path class="fillable" d="M124 91h51l81 162 81-164h51L276 293v136h-40V293z"></path></svg>
         </a>
       </li>
