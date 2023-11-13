@@ -1,0 +1,26 @@
+# | |___      _| |___  _| |_
+# | __\ \ /\ / / __\ \/ / __|
+# | |_ \ V  V /| |_ >  <| |_
+#  \__| \_/\_/  \__/_/\_\\__|
+#
+# Twtxt is an open, distributed microblogging platform that
+# uses human-readable text files, common transport protocols,
+# and free software.
+#
+# Learn more about twtxt at https://github.com/buckket/twtxt
+#
+# nick        = eleventyBlissTemplate
+# url         = https://eleventy-bliss.vercel.app/twtxt.txt
+# avatar      = https://eleventy-bliss.vercel.app/images/twtxt-avatar.png
+# description = A place for writing and reading.
+# lang        = en
+#
+2020-12-10T00:00:00Z	轻小说与推理的碰撞 - https://eleventy-bliss.vercel.app/toshokan-no-satsujin-library
+2022-11-23T00:00:00Z	读《屏风、MacBook 和断网：在山野中让头脑沉浸思考一天》 - https://eleventy-bliss.vercel.app/wild-and-offline
+2023-02-28T00:00:00Z	读汪民安《论爱欲》 - https://eleventy-bliss.vercel.app/on-eros
+2023-03-04T00:00:00Z	康德的《历史理性批判文集》 - https://eleventy-bliss.vercel.app/historical-ration
+2023-06-23T00:00:00Z	克尔凯郭尔《恐惧与战栗》管窥 - https://eleventy-bliss.vercel.app/kierkegaard
+2023-07-15T00:00:00Z	Two Cheers For Anarchism! - https://eleventy-bliss.vercel.app/anarchism
+2023-08-19T00:00:00Z	纸上旅行《从大都到上都》 - https://eleventy-bliss.vercel.app/travel-on-paper
+2023-11-07T00:00:00Z	数字花园 - https://eleventy-bliss.vercel.app/digital-garden
+2023-11-12T00:00:00Z	《地外生命》——我们是孤独的吗？ - https://eleventy-bliss.vercel.app/extraterrestrial-life
