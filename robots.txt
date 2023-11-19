@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://star-du.github.io/sitemap.xml
+Sitemap: https://star-du.github.io/eleventy-blog/sitemap.xml

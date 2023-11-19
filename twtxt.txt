@@ -10,18 +10,18 @@
 # Learn more about twtxt at https://github.com/buckket/twtxt
 #
 # nick        = eleventyBlissTemplate
-# url         = https://star-du.github.io/twtxt.txt
-# avatar      = https://star-du.github.io/images/twtxt-avatar.png
+# url         = https://star-du.github.io/eleventy-blog/twtxt.txt
+# avatar      = https://star-du.github.io/eleventy-blog/images/twtxt-avatar.png
 # description = A place for writing and reading.
 # lang        = en
 #
-2020-12-10T00:00:00Z	轻小说与推理的碰撞 - https://star-du.github.io/toshokan-no-satsujin-library/
-2022-11-23T00:00:00Z	读《屏风、MacBook 和断网：在山野中让头脑沉浸思考一天》 - https://star-du.github.io/wild-and-offline/
-2023-02-28T00:00:00Z	读汪民安《论爱欲》 - https://star-du.github.io/on-eros/
-2023-03-04T00:00:00Z	康德的《历史理性批判文集》 - https://star-du.github.io/historical-ration/
-2023-06-23T00:00:00Z	克尔凯郭尔《恐惧与战栗》管窥 - https://star-du.github.io/kierkegaard/
-2023-07-15T00:00:00Z	Two Cheers For Anarchism! - https://star-du.github.io/anarchism/
-2023-08-19T00:00:00Z	纸上旅行《从大都到上都》 - https://star-du.github.io/travel-on-paper/
-2023-11-07T00:00:00Z	数字花园 - https://star-du.github.io/digital-garden/
-2023-11-12T00:00:00Z	《地外生命》——我们是孤独的吗？ - https://star-du.github.io/extraterrestrial-life/
-2023-11-19T00:00:00Z	在 2023 重新学习 Unicode (UTF-8) - https://star-du.github.io/unicode-in-2023/
+2020-12-10T00:00:00Z	轻小说与推理的碰撞 - https://star-du.github.io/eleventy-blog/toshokan-no-satsujin-library/
+2022-11-23T00:00:00Z	读《屏风、MacBook 和断网：在山野中让头脑沉浸思考一天》 - https://star-du.github.io/eleventy-blog/wild-and-offline/
+2023-02-28T00:00:00Z	读汪民安《论爱欲》 - https://star-du.github.io/eleventy-blog/on-eros/
+2023-03-04T00:00:00Z	康德的《历史理性批判文集》 - https://star-du.github.io/eleventy-blog/historical-ration/
+2023-06-23T00:00:00Z	克尔凯郭尔《恐惧与战栗》管窥 - https://star-du.github.io/eleventy-blog/kierkegaard/
+2023-07-15T00:00:00Z	Two Cheers For Anarchism! - https://star-du.github.io/eleventy-blog/anarchism/
+2023-08-19T00:00:00Z	纸上旅行《从大都到上都》 - https://star-du.github.io/eleventy-blog/travel-on-paper/
+2023-11-07T00:00:00Z	数字花园 - https://star-du.github.io/eleventy-blog/digital-garden/
+2023-11-12T00:00:00Z	《地外生命》——我们是孤独的吗？ - https://star-du.github.io/eleventy-blog/extraterrestrial-life/
+2023-11-19T00:00:00Z	在 2023 重新学习 Unicode (UTF-8) - https://star-du.github.io/eleventy-blog/unicode-in-2023/
