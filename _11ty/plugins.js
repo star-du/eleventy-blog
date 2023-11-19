@@ -61,20 +61,6 @@ const plugins = [
   },
   {
     body: faviconsPlugin,
-    options: {
-      manifestData: {
-        name: siteConfig.site.title,
-        lang: siteConfig.site.language,
-        short_name: siteConfig.site.title,
-        description: siteConfig.site.description,
-        start_url: '/',
-        scope: '/',
-        display: 'standalone',
-        theme_color: siteConfig.manifestJson.themeColor,
-        background_color: siteConfig.manifestJson.backgroundColor,
-        orientation: 'any',
-      },
-    },
   },
 ];
 

@@ -28,3 +28,7 @@ May not reflect on the latest status of {{ siteConfig.author.name }} :)
 	- ...如果有人阅读，让这星球上的某人生活和思考有一点小小的变化，那是我几乎不能奢望的了。
 - 给我写封邮件吧
 	- 请从 GitHub 个人主页中找到我的邮箱
+
+
+### 致谢
+Favicon 素材（svg）来自 [OpenMoji](https://openmoji.org/) 提供的 🔓 （`U+1F513`），取其解除锁闭之意。
