@@ -61,6 +61,7 @@ module.exports = {
         url: 'https://offbeatbits.com',
       },
     },
+    pathPrefix: '/eleventy-blog',
   },
   // ---------------------------------------------------------------------------
   // Information about YOU, the site author
