@@ -3,8 +3,8 @@
 $baseSize: 16px;
 
 // Base colors
-
-$baseHue: 210;
+// A shade of purple, inspired from https://developer.mozilla.org/en-US/docs/Web/CSS/hue
+$baseHue: 275deg;
 
 $baseColor: hsl($baseHue, 80%, 50%);
 $white: hsl($baseHue, 80%, 98%);
@@ -27,9 +27,11 @@ $emojiFontFamily: Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol,
 // Spacings
 
 $spacing: 1rem;
-$mainBreakpoint: (48 * $baseSize) - 1px;
+$mainBreakpoint: (
+  48 * $baseSize) - 1px;
 $mediumBreakpoint: 36rem;
-$menuBreakpoint: $mainBreakpoint + (6 * $baseSize);
+$menuBreakpoint: $mainBreakpoint + (6 * $baseSize
+);
 $footerBreakpoint: 32rem;
 
 // Timings
@@ -74,10 +76,8 @@ $lightThemeSwitcherColor: $lightLinkColor;
 $lightMobileMenuBackgroundColor: $lightBackgroundColor;
 $lightMobileMenuSeparatorColor: darken($white, 8%);
 $lightScrollUpArrowBackgroundColor: lighten($lightLinkColor, 10%);
-$lightScrollUpArrowHoverBackgroundColor: darken(
-  $lightScrollUpArrowBackgroundColor,
-  7%
-);
+$lightScrollUpArrowHoverBackgroundColor: darken($lightScrollUpArrowBackgroundColor,
+    7%);
 $lightPaginationColor: $lightTextColor;
 $lightPaginationFocusBackgroundColor: $lightNoticeBackgroundColor;
 $lightPaginationInactiveColor: lighten($lightPostMetaColor, 25%);
@@ -136,10 +136,8 @@ $darkThemeSwitcherColor: $darkLinkColor;
 $darkMobileMenuBackgroundColor: $darkBackgroundColor;
 $darkMobileMenuSeparatorColor: lighten($black, 5%);
 $darkScrollUpArrowBackgroundColor: darken($darkLinkColor, 10%);
-$darkScrollUpArrowHoverBackgroundColor: darken(
-  $darkScrollUpArrowBackgroundColor,
-  7%
-);
+$darkScrollUpArrowHoverBackgroundColor: darken($darkScrollUpArrowBackgroundColor,
+    7%);
 $darkPaginationPageNumberInputTextColor: $darkTextColor;
 $darkPaginationColor: lighten($black, 55%);
 $darkPaginationFocusBackgroundColor: $darkNoticeBackgroundColor;
@@ -180,6 +178,7 @@ html.dark {
 }
 
 @media (prefers-color-scheme: dark) {
+
   :root,
   html:not(.light),
   html.dark {

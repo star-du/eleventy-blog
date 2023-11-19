@@ -34,22 +34,22 @@ See [`phrases.js`](./content/_data/phrases.js) for the list of translatable stat
 
 Non-exhaustive list of steps to make the template **your own**. Some of them are optional, others are highly recommended:
 
-- [ ] Fill in all relevant information in [`siteConfig.js`](./content/_data/siteConfig.js) - site title, description, custom logo, author information, etc.
-- [ ] Modify production URL - either by hardcoding it in [`siteConfig.js`](./content/_data/siteConfig.js) or via `process.env.URL` environment variable
-- [ ] Replace site logo or remove the existing one to use site title as text in your header
-- [ ] Modify color palette to your liking - edit relevant variables in [`_variables.scss`](./src/styles/_variables.scss)
-- [ ] If you changed the color palette - modify theme color and background color for PWA manifest - see [`siteConfig.js`](./content/_data/siteConfig.js)
+- [x] Fill in all relevant information in [`siteConfig.js`](./content/_data/siteConfig.js) - site title, description, custom logo, author information, etc.
+- [x] Modify production URL - either by hardcoding it in [`siteConfig.js`](./content/_data/siteConfig.js) or via `process.env.URL` environment variable
+- [x] Replace site logo or remove the existing one to use site title as text in your header
+- [x] Modify color palette to your liking - edit relevant variables in [`_variables.scss`](./src/styles/_variables.scss)
+- [x] If you changed the color palette - modify theme color and background color for PWA manifest - see [`siteConfig.js`](./content/_data/siteConfig.js)
 - [ ] If you changed the color palette - modify base color for RSS XSL stylesheet - see [`siteConfig.js`](./content/_data/siteConfig.js)
 - [ ] Enable automatic OpenGraph image generation - note that they only work for pages and posts
-- [ ] Add your own posts - use the existing placeholder posts as a reference
-- [ ] If you use post disclaimers at the beginning of your posts - consider using the built-in disclaimer feature - see [`06-10-sample-post-33-disclaimer.md`](./content/posts/2023/06-10-sample-post-33-disclaimer.md) or [`05-31-sample-post-32-linked-disclaimer.md`](./content/posts/2023/05-31-sample-post-32-linked-disclaimer.md) for reference
-- [ ] Add your own pages - use one of the existing placeholder pages as a reference
-- [ ] Add / remove meta pages in the footer - see [`siteConfig.js`](./content/_data/siteConfig.js)
-- [ ] Replace a favicon file (`favicon.svg`) with your own - only one file is needed, the remaining ones will be generated on build
+- [x] Add your own posts - use the existing placeholder posts as a reference
+- [x] If you use post disclaimers at the beginning of your posts - consider using the built-in disclaimer feature - see [`06-10-sample-post-33-disclaimer.md`](./content/posts/2023/06-10-sample-post-33-disclaimer.md) or [`05-31-sample-post-32-linked-disclaimer.md`](./content/posts/2023/05-31-sample-post-32-linked-disclaimer.md) for reference
+- [x] Add your own pages - use one of the existing placeholder pages as a reference
+- [x] Add / remove meta pages in the footer - see [`siteConfig.js`](./content/_data/siteConfig.js)
+- [x] Replace a favicon file (`favicon.svg`) with your own - only one file is needed, the remaining ones will be generated on build
 - [ ] Replace OpenGraph images with ones relevant to your site
 - [ ] Decide if you want to use automated OpenGragh image generation + consider modifying their appearance to suit your taste (see `siteConfig.js` for more info)
-- [ ] Copy your existing static assets to `assets` folder. Note that the top of `assets` folder corresponds to the _root directory_ of your site (`_site`)
-- [ ] Modify anything else you don't like about the theme to match your preferences
+- [x] Copy your existing static assets to `assets` folder. Note that the top of `assets` folder corresponds to the _root directory_ of your site (`_site`)
+- [x] Modify anything else you don't like about the theme to match your preferences
 - [ ] Enjoy! 😊
 
 ## Optional customizations
