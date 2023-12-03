@@ -25,3 +25,4 @@
 2023-11-07T00:00:00Z	数字花园 - https://star-du.github.io/eleventy-blog/digital-garden/
 2023-11-12T00:00:00Z	《地外生命》——我们是孤独的吗？ - https://star-du.github.io/eleventy-blog/extraterrestrial-life/
 2023-11-19T00:00:00Z	在 2023 重新学习 Unicode (UTF-8) - https://star-du.github.io/eleventy-blog/unicode-in-2023/
+2023-12-03T00:00:00Z	写博客之意义三则 - https://star-du.github.io/eleventy-blog/why-writing-blog/
