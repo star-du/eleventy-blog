@@ -3,7 +3,7 @@ pagination:
   data: collections.publishedItems
   size: 1
   alias: preview
-permalink: "/images/share/{% if preview.data.customPermalink %}{{ preview.data.customPermalink }}{% else %}/{{ preview.data.title | slugify }}/{% endif %}-preview.svg"
+permalink: "/images/share/{% if preview.data.customPermalink %}{{ preview.data.customPermalink }}{% else %}/{{ preview.data.page.fileSlug }}/{% endif %}-preview.svg"
 eleventyExcludeFromCollections: true
 ---
 
