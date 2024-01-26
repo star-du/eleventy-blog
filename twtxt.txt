@@ -27,3 +27,4 @@
 2023-11-19T00:00:00Z	在 2023 重新学习 Unicode (UTF-8) - https://star-du.github.io/eleventy-blog/unicode-in-2023/
 2023-12-03T00:00:00Z	写博客之意义三则 - https://star-du.github.io/eleventy-blog/why-writing-blog/
 2024-01-06T00:00:00Z	我的 Excel 个人记账实践 - https://star-du.github.io/eleventy-blog/bookkeeping-with-excel/
+2024-01-26T00:00:00Z	万哲生的大理速写本 - https://star-du.github.io/eleventy-blog/dali-book/
