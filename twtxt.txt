@@ -28,3 +28,4 @@
 2023-12-03T00:00:00Z	写博客之意义三则 - https://star-du.github.io/eleventy-blog/why-writing-blog/
 2024-01-06T00:00:00Z	我的 Excel 个人记账实践 - https://star-du.github.io/eleventy-blog/bookkeeping-with-excel/
 2024-01-26T00:00:00Z	万哲生的大理速写本 - https://star-du.github.io/eleventy-blog/dali-book/
+2024-02-09T00:00:00Z	过去一年的读库 - https://star-du.github.io/eleventy-blog/2023-duku/
