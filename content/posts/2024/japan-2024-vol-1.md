@@ -1,6 +1,6 @@
 ---
 title: 日本旅行记：一
-date: 2024-06-08
+date: 2024-06-14
 tags:
   - travel
   - japan
