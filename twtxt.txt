@@ -33,3 +33,4 @@
 2024-06-14T00:00:00Z	日本旅行记：一 - https://star-du.github.io/eleventy-blog/japan-2024-vol-1/
 2024-11-09T00:00:00Z	人人可编辑的 Wikipedia - https://star-du.github.io/eleventy-blog/wikipedia-learnings/
 2024-11-15T00:00:00Z	读一本园林书 - https://star-du.github.io/eleventy-blog/chinese-garden/
+2024-12-12T00:00:00Z	「方格」里的随机波动 - https://star-du.github.io/eleventy-blog/grid-mook/
