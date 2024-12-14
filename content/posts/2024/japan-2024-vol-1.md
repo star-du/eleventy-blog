@@ -4,6 +4,7 @@ date: 2024-06-14
 tags:
   - travel
   - japan
+  - city
 
 ---
 
