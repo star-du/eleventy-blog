@@ -35,3 +35,4 @@
 2024-11-15T00:00:00Z	读一本园林书 - https://star-du.github.io/eleventy-blog/chinese-garden/
 2024-12-12T00:00:00Z	「方格」里的随机波动 - https://star-du.github.io/eleventy-blog/grid-mook/
 2024-12-14T00:00:00Z	苏州观察记 - https://star-du.github.io/eleventy-blog/suzhou-observer-note/
+2025-07-02T00:00:00Z	图书过眼录 - https://star-du.github.io/eleventy-blog/2025-mid-year-books/
