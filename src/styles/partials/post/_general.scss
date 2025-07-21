@@ -22,7 +22,14 @@
   font-family: 'STFangsong', 'FangSong', 'Merriweather';
 }
 
-.landscape_image,
+.landscape_image {
+  display: block;
+  margin: auto;
+  width: 80%;
+  height: auto;
+  max-width: 600px;
+}
+
 .book_image {
   max-width: 500px;
 }
