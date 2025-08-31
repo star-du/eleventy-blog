@@ -38,3 +38,4 @@
 2025-07-02T00:00:00Z	图书过眼录 - https://star-du.github.io/eleventy-blog/2025-mid-year-books/
 2025-07-21T00:00:00Z	六月去了趟新疆 - https://star-du.github.io/eleventy-blog/2025-in-xinjiang/
 2025-08-19T00:00:00Z	从《时间困境》获得的启示 - https://star-du.github.io/eleventy-blog/time-bind/
+2025-08-31T00:00:00Z	日本写作者的三本书 - https://star-du.github.io/eleventy-blog/august-three-japanese-books/
