@@ -1,6 +1,6 @@
 ---
-title: About
-description: There are many variations of passages of Lorem Ipsum available.
+title: 写作者的话
+description: Self introductions.
 eleventyNavigation:
   key: About
   order: 1
@@ -9,8 +9,8 @@ customPermalink: /about/
 ---
 
 <div  class="notice">
-Last Updated: 2022-11-22 <br/>
-May not reflect on the latest status of {{ siteConfig.author.name }} :)
+上次更新发生在 2022-11-22 <br/>
+变化之处，多多担待 :)
 </div>
 
 <img src="/images/avatar.png" alt="" class="myphoto" />
