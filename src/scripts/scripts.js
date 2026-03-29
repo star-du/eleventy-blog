@@ -219,11 +219,10 @@ window.addEventListener('DOMContentLoaded', () => {
   };
 
   const handleRedirect = (pageNumber) => {
-    const pageUrl = window.location.href
-      .split(/\/[0-9]+\//)[0]
-      .replace(/\/+$/, '');
+    const baseUrl = window.location.pathname.replace(/\/([0-9]+\/)?$/, '');
 
-    const newLocation = pageNumber === 1 ? pageUrl : `${pageUrl}/${pageNumber}`;
+    const newLocation =
+      pageNumber === 1 ? `${baseUrl}/` : `${baseUrl}/${pageNumber}/`;
 
     window.location.href = newLocation;
   };
