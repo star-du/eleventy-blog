@@ -54,6 +54,4 @@ module.exports = {
   sample_instance: 'mastodon.social',
   close_window: '关闭此窗口',
   share: '分享',
-  powered_by: '由',
-  template: '模板',
 };
