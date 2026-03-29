@@ -27,7 +27,7 @@ module.exports = {
     logo: '',
     // Default language of the site. Used in 'lang' attribute of <html> element
     // If none is provided, no 'lang' attribute will be used.
-    language: 'en',
+    language: 'zh-CN',
     // The year this site was created. Can be used in the footer in conjuction
     // with {% currentYear %} expression
     // so that you don't have to update the copyright year
@@ -151,7 +151,7 @@ module.exports = {
   enablePWA: false, // If enabled, service worker for PWA will be registered
   manifestJson: {
     // Language of PWA application
-    language: 'en-US',
+    language: 'zh-CN',
     // Default theme color for PWA application. Affects how the OS displays
     // the site
     themeColor: '#1773cf',
@@ -202,7 +202,7 @@ module.exports = {
     // Settings for RSS feed displaying post excerpts
     excerpts: {
       // Title of RSS feed displaying post excerpts
-      title: 'RSS feed (excerpts)',
+      title: 'RSS 订阅源（摘要）',
       // Path of RSS feed displaying post excerpts
       path: '/excerpts.xml',
       // How many posts should be presented in excerpts-only RSS feed?
@@ -211,7 +211,7 @@ module.exports = {
     // Settings for RSS feed displaying full post contents
     full: {
       // Title of RSS feed displaying full post contents
-      title: 'RSS feed (full articles)',
+      title: 'RSS 订阅源（全文）',
       // Path of RSS feed displaying only post excerpts
       path: '/full.xml',
       // How many posts should be presented in full-post-contents RSS feed?
@@ -227,7 +227,7 @@ module.exports = {
     // Settings for JSON feed displaying post excerpts only
     excerpts: {
       // Title of JSON feed displaying post excerpts
-      title: 'JSON feed (excerpts)',
+      title: 'JSON 订阅源（摘要）',
       // Path of JSON feed displaying post excerpts
       // used as permalink in the template
       path: '/excerpts.json',
@@ -237,7 +237,7 @@ module.exports = {
     // Settings for JSON feed displaying full post contents
     full: {
       // Title of JSON feed displaying full post contents
-      title: 'JSON feed (full articles)',
+      title: 'JSON 订阅源（全文）',
       // Path of JSON feed displaying full post contents,
       // used as permalink in the template
       path: '/full.json',
@@ -264,7 +264,7 @@ module.exports = {
     // How many posts should be displayed in Twtxt file?
     limit: 100,
     // Title of your Twtxt.txt file used on /subscribe/ page
-    title: 'twtxt.txt (titles and links)',
+    title: 'twtxt.txt（标题和链接）',
   },
   // ---------------------------------------------------------------------------
   // Site icons, used mostly for PWA manifest
@@ -282,7 +282,7 @@ module.exports = {
     // Base language used for locale-based sorting
     // If you don't use characters with diacritic marks in your language,
     // you can probably leave this unchanged
-    language: 'en',
+    language: 'zh-CN',
     // Options for localeCompare tag sorting method
     options: {
       sensitivity: 'base',

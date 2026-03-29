@@ -5,7 +5,7 @@
     "post"
   ],
   "permalink": "{% if customPermalink %}{{ customPermalink }}{% else %}/{{ page.fileSlug }}/{% endif %}",
-  "language": "en",
+  "language": "zh-CN",
   "published": true,
   "ogType": "article"
 }
