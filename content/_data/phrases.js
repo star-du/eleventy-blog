@@ -13,7 +13,7 @@ module.exports = {
   license: '许可协议',
   published: '发布于',
   page: '页',
-  go_to_page: '跳转到第',
+  go_to_page: '输入（数字）',
   visit_website: '访问网站',
   tags: '标签',
   go: '跳转',
