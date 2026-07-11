@@ -6,7 +6,7 @@
 module.exports = {
   main_page: '首页',
   skip_to_main_content: '跳转到正文',
-  disclaimer: '免责声明',
+  disclaimer: '作者希望提醒',
   keep_reading: '继续阅读于',
   originally_published: '最初发布于',
   by: '作者',
