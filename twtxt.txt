@@ -41,3 +41,4 @@
 2025-08-31T00:00:00Z	日本写作者的三本书 - https://star-du.github.io/eleventy-blog/august-three-japanese-books/
 2026-07-11T00:00:00Z	2025年的读库 - https://star-du.github.io/eleventy-blog/2025-duku/
 2026-08-08T00:00:00Z	托马斯·克伦威尔的宇宙 - https://star-du.github.io/eleventy-blog/wolf-hall/
+2026-08-23T00:00:00Z	辛苦了，还愿意关注气候变化的你 - https://star-du.github.io/eleventy-blog/hot-mess/
