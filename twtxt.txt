@@ -43,3 +43,4 @@
 2026-08-08T00:00:00Z	托马斯·克伦威尔的宇宙 - https://star-du.github.io/eleventy-blog/wolf-hall/
 2026-08-23T00:00:00Z	辛苦了，还愿意关注气候变化的你 - https://star-du.github.io/eleventy-blog/hot-mess/
 2026-10-11T00:00:00Z	间谍史迈利 - https://star-du.github.io/eleventy-blog/tinker-tailor-soldier-spy/
+2026-11-14T00:00:00Z	我开始读中文现代诗 - https://star-du.github.io/eleventy-blog/poems-liu-waitong/
